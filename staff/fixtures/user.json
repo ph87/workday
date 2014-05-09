@@ -1,0 +1,92 @@
+[
+{
+    "pk": 1, 
+    "model": "auth.user", 
+    "fields": {
+        "username": "admin", 
+        "first_name": "", 
+        "last_name": "", 
+        "is_active": true, 
+        "is_superuser": true, 
+        "is_staff": true, 
+        "last_login": "2014-05-09T08:18:11.638Z", 
+        "groups": [], 
+        "user_permissions": [], 
+        "password": "pbkdf2_sha256$12000$8dHfHjH0W6Qz$eRkaFZlp4qEVE9ASWK978BnD7hohluQXBK7yHWi6AXE=", 
+        "email": "", 
+        "date_joined": "2014-05-09T08:18:11.638Z"
+    }
+},
+{
+    "pk": 2, 
+    "model": "auth.user", 
+    "fields": {
+        "username": "albert", 
+        "first_name": "", 
+        "last_name": "", 
+        "is_active": true, 
+        "is_superuser": false, 
+        "is_staff": false, 
+        "last_login": "2014-05-09T08:19:04.890Z", 
+        "groups": [], 
+        "user_permissions": [], 
+        "password": "", 
+        "email": "", 
+        "date_joined": "2014-05-09T08:19:04.890Z"
+    }
+},
+{
+    "pk": 3, 
+    "model": "auth.user", 
+    "fields": {
+        "username": "berry", 
+        "first_name": "", 
+        "last_name": "", 
+        "is_active": true, 
+        "is_superuser": false, 
+        "is_staff": false, 
+        "last_login": "2014-05-09T08:19:22.615Z", 
+        "groups": [], 
+        "user_permissions": [], 
+        "password": "", 
+        "email": "", 
+        "date_joined": "2014-05-09T08:19:22.615Z"
+    }
+},
+{
+    "pk": 4, 
+    "model": "auth.user", 
+    "fields": {
+        "username": "celery", 
+        "first_name": "", 
+        "last_name": "", 
+        "is_active": true, 
+        "is_superuser": false, 
+        "is_staff": false, 
+        "last_login": "2014-05-09T08:19:35.215Z", 
+        "groups": [], 
+        "user_permissions": [], 
+        "password": "", 
+        "email": "", 
+        "date_joined": "2014-05-09T08:19:35.215Z"
+    }
+},
+{
+    "pk": 5, 
+    "model": "auth.user", 
+    "fields": {
+        "username": "duck", 
+        "first_name": "", 
+        "last_name": "", 
+        "is_active": true, 
+        "is_superuser": false, 
+        "is_staff": false, 
+        "last_login": "2014-05-09T08:58:46.692Z", 
+        "groups": [], 
+        "user_permissions": [], 
+        "password": "", 
+        "email": "", 
+        "date_joined": "2014-05-09T08:58:46.693Z"
+    }
+}
+]

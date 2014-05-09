@@ -1,0 +1,46 @@
+[
+{
+    "pk": 2, 
+    "model": "staff.staff", 
+    "fields": {
+        "user_permissions": [], 
+        "superior": [
+        ], 
+        "title": [
+            1
+        ], 
+        "groups": [], 
+        "level": 1
+    }
+},
+{
+    "pk": 3, 
+    "model": "staff.staff", 
+    "fields": {
+        "user_permissions": [], 
+        "superior": [
+            2
+        ], 
+        "title": [
+            2
+        ], 
+        "groups": [], 
+        "level": 1
+    }
+},
+{
+    "pk": 4, 
+    "model": "staff.staff", 
+    "fields": {
+        "user_permissions": [], 
+        "superior": [
+            2
+        ], 
+        "title": [
+            2
+        ], 
+        "groups": [], 
+        "level": 2
+    }
+}
+]

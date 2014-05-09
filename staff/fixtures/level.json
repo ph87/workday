@@ -1,0 +1,18 @@
+[
+{
+    "pk": 1, 
+    "model": "staff.level", 
+    "fields": {
+        "code": "SE", 
+        "name": "\u9ad8\u7ea7\u5de5\u7a0b\u5e08"
+    }
+},
+{
+    "pk": 2, 
+    "model": "staff.level", 
+    "fields": {
+        "code": "E", 
+        "name": "\u5de5\u7a0b\u5e08"
+    }
+}
+]
