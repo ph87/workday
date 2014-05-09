@@ -22,10 +22,7 @@ class Staff(User):
             related_name='subordinates')
 
     def __unicode__(self):
-        if self.level:
-            return '%s %s' % (self.username, self.level)
-        else:
-            return self.username
+        return '%s %s' % (self.username, self.level or '')
 
     def get_all_subordinates(self):
         subordinates = {}
